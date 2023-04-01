@@ -6,7 +6,6 @@
 
 body {
     background-color: #d9dcd6;
-
 }
 
 header {
@@ -33,10 +32,6 @@ header nav {
     float:right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
-
-/* header nav ul {
-    list-style-type: none;
-} */
 
 header nav ul li {
     display: inline-block;
@@ -99,7 +94,7 @@ aside {
     background-color: #2589bd;
 }
 
-aside, img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -120,6 +115,8 @@ aside, img {
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
+    max-width: 150px;
+    margin: 10px auto;
 }
 
 .search-engine-optimization h2,
