@@ -94,7 +94,8 @@ aside {
     background-color: #2589bd;
 }
 
-aside img {
+
+.benefit-lead img,.benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -115,8 +116,6 @@ aside img {
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
-    max-width: 150px;
-    margin: 10px auto;
 }
 
 .search-engine-optimization h2,
