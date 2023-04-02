@@ -7,7 +7,14 @@ Repository contains a quality README file with description, screenshot, and link
 
 ## Description
 
-Code refactor for Horiseon marketing agency to make website more accessible and improve code base for long term sustainability. Added alt text to images and icons. Repaired broken links. Consolidated and organized CSS from 200 lines to 134 lines grouping like selectors. 
+Code refactor for Horiseon marketing agency to make website more accessible and improve code base for long term sustainability. 
+
+### Completed work:
+- Added descriptive title
+- Added alt text to images and icons
+- Repaired broken links 
+- Removed generic div elements and used symantic selectors  
+- Consolidated and organized CSS from 200 lines to 134 lines grouping like selectors. 
 
 ## Table of Contents (Optional)
 
@@ -20,49 +27,34 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- Website can be accessed [here](https://aimeedarling.github.io/horiseon-code-refactor/)
+
+- Repository can be accessed [here](https://github.com/aimeedarling/horiseon-code-refactor)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Screenshot of completed work.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text="screenshot of website"](assets/images/screenshot-horiseon-homepage.jpg)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+<!-- List your collaborators, if any, with links to their GitHub profiles.
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+If you followed tutorials, include links to those here as well. -->
+
+- [WSU HTML Cheat Sheet](https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf)
+- [What is Semantic HTML](https://www.thoughtco.com/why-use-semantic-html-3468271)
+- [Sementic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
+- [WSU CSS Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
 
 
