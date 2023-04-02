@@ -14,7 +14,8 @@ Code refactor for Horiseon marketing agency to make website more accessible and 
 - Added alt text to images and icons
 - Repaired broken links 
 - Removed generic div elements and used symantic selectors  
-- Consolidated and organized CSS from 200 lines to 134 lines grouping like selectors. 
+- Consolidated and organized CSS from 200 lines to 134 lines
+- Commented on CSS  
 
 ## Table of Contents (Optional)
 
