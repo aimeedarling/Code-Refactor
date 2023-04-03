@@ -33,6 +33,9 @@ Screenshot of completed work.
 ![alt text="screenshot of website"](assets/images/screenshot-horiseon-homepage.jpg)
 
 ## Credits
+
+Base code developed and provided by Columbia Coding Bootcamp
+
 References used to complete refactor:
 - [WSU HTML Cheat Sheet](https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf)
 - [What is Semantic HTML](https://www.thoughtco.com/why-use-semantic-html-3468271)
